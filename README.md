@@ -49,7 +49,7 @@ I'm passionate about web / mobile development and creating innovative solutions.
 
 
 ---
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about tech!
+<p align = "center">Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about tech! </p>
 
 
 
