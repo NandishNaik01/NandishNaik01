@@ -41,9 +41,9 @@ I'm passionate about web / mobile development and creating innovative solutions.
 ### 📫 Let's Connect!
 
 
-  <p align :"center">
-    <a href="https://nandishnaik.netlify.app/">Portfolio Website</a>
-    <a href="http://www.linkedin.com/in/nandish-d-naik-39a785257">LinkedIn</a>
+  <p align = "center">
+    <a href="https://nandishnaik.netlify.app/">Portfolio Website</a> || 
+    <a href="http://www.linkedin.com/in/nandish-d-naik-39a785257">LinkedIn</a> ||
     <a href="naik.nandishd@gmail.com">Mail</a>
   </p>
 
