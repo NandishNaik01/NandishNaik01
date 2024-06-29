@@ -14,18 +14,17 @@ I'm passionate about web / mobile development and creating innovative solutions.
 </p>
 
 ---
-###  Stats
+### 📊 GitHub Stats:
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NandishNaik01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="NandishNaik01's Stats" /> <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NandishNaik01&theme=vue-dark&hide_border=true" alt="NandishNaik01's Streak" /> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandishNaik01&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="NandishNaik01's Top Languages" />
+
+![](https://github-readme-stats.vercel.app/api?username=NandishNaik01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NandishNaik01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NandishNaik01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
-
-
-
+---
 
 ### 🎓 Education
 
@@ -58,3 +57,8 @@ I'm passionate about web / mobile development and creating innovative solutions.
 
 ---
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about tech!
+
+
+
+
+
