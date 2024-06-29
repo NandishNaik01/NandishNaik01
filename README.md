@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Nandish D
 
-## 🚀 Full Stack Mobile Developer | 💻 Computer Science Engineering Student
 
-I'm passionate about mobile development and creating innovative solutions. Currently pursuing my BE in Computer Science at JNNCE, I'm always eager to learn and apply new technologies.
+
+I'm passionate about web / mobile development and creating innovative solutions. Currently pursuing my BE in Computer Science at JNNCE, I'm always eager to learn and apply new technologies.
 
 ### 🛠 Tech Stack
 
@@ -24,43 +24,13 @@ I'm passionate about mobile development and creating innovative solutions. Curre
 ### 🏆 Achievements
 
 - Pratilipi Writer with 22k readers and 333 followers
-- Top 5 in Malnad Startup Summit 2023
+- Top 5 in Malnad Startup Summit 2024
 
-### 👨‍💻 Projects
-
-
-1. **Gita Quotes:** Android app using Java and Firebase
-2. **Calco:** Real-time stop-loss calculation platform for trading
-
-### 💼 Work Experience
-
-**Project Intern** at Unriddle Technologies (Feb 2024 - Present)
-- Developed a Patient Queue Management System using Android Studio and Jetpack Compose
-- Implemented real-time backend connectivity with Kotlin and Firestore Firebase
-
-### 🌟 Certifications
-
-- JavaScript Certification from KG Coding
-- Android Development from Great Learning
-- React JS Certification from Great Learning
-
-### 🗣 Languages
-
-- English (Professional Proficiency)
-- Kannada (Native)
-- Hindi (Professional Proficiency)
-
-### 🎨 Interests
-
-- Public Speaking
-- Volunteer Work
-- Sports and Fitness
-- Travel
-
+---
 ### 📫 Let's Connect!
 
-- [Portfolio Website](https://nandishnaik.netlify.app/)
-- [LinkedIn](http://www.linkedin.com/in/nandish-d-naik-39a785257)
-- Email: naik.nandishd@gmail.com
+- <img src="https://skillicons.dev/icons?i=emotion"/> [Portfolio Website](https://nandishnaik.netlify.app/)
+- <img src="https://skillicons.dev/icons?i=linkedin"/>  [LinkedIn](http://www.linkedin.com/in/nandish-d-naik-39a785257)
+- <img src="https://skillicons.dev/icons?i=email"/> Email: naik.nandishd@gmail.com
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about tech!
