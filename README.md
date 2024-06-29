@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Nandish D
-
+---
 
 
 I'm passionate about web / mobile development and creating innovative solutions. Currently pursuing my BE in Computer Science at JNNCE, I'm always eager to learn and apply new technologies.
