@@ -26,11 +26,9 @@ I'm passionate about mobile development and creating innovative solutions. Curre
 
 ### 👨‍💻 Projects
 
-1. **Amazon Clone**
-2. **Paytm Clone**
-3. **Trading App**
-4. **Gita Quotes:** Android app using Java and Firebase
-5. **Calco:** Real-time stop-loss calculation platform for trading
+
+1. **Gita Quotes:** Android app using Java and Firebase
+2. **Calco:** Real-time stop-loss calculation platform for trading
 
 ### 💼 Work Experience
 
