@@ -6,12 +6,14 @@ I'm passionate about mobile development and creating innovative solutions. Curre
 
 ### 🛠 Tech Stack
 
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,kotlin,html,css,js,express,react,mysql,firebase,git,github,figma" />
   </a>
 </p>
 
+---
 
 ### 🎓 Education
 
