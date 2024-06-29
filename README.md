@@ -40,20 +40,13 @@ I'm passionate about web / mobile development and creating innovative solutions.
 ---
 ### 📫 Let's Connect!
 
-<div align="left">
-  <p>
-    <img src="https://skillicons.dev/icons?i=emotion"/> <br/>
+
+  <p align :"center">
     <a href="https://nandishnaik.netlify.app/">Portfolio Website</a>
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=linkedin"/>  <br/>
     <a href="http://www.linkedin.com/in/nandish-d-naik-39a785257">LinkedIn</a>
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=gmail"/>  <br/>
     <a href="naik.nandishd@gmail.com">Mail</a>
   </p>
-</div>
+
 
 ---
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about tech!
