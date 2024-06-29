@@ -15,11 +15,13 @@ I'm passionate about web / mobile development and creating innovative solutions.
 
 ---
 ###  Stats
-
-
-![NandishNaik01's Stats](https://github-readme-stats.vercel.app/api?username=NandishNaik01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![NandishNaik01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NandishNaik01&theme=vue-dark&hide_border=true)
+<div align="center">
+![NandishNaik01's Stats](https://github-readme-stats.vercel.app/api?username=NandishNaik01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) <br/>
+![NandishNaik01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NandishNaik01&theme=vue-dark&hide_border=true) <br/>
 ![NandishNaik01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NandishNaik01&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+</div>
+
+
 
 
 ### 🎓 Education
