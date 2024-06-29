@@ -6,12 +6,12 @@ I'm passionate about mobile development and creating innovative solutions. Curre
 
 ### 🛠 Tech Stack
 
-- **Languages:** Java, Python, Kotlin, Dart
-- **Front-end:** HTML, CSS, JavaScript, Jetpack Compose
-- **Frameworks:** Flutter, Express JS
-- **Databases:** MySQL, Firestore, Firebase
-- **Tools:** Git, GitHub, Figma
-- **Problem Solving:** DSA, 3-star problem solver on HackerRank
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,kotlin,html,css,js,express,react,mysql,firebase,git,github,figma" />
+  </a>
+</p>
+
 
 ### 🎓 Education
 
