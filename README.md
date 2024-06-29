@@ -31,15 +31,15 @@ I'm passionate about web / mobile development and creating innovative solutions.
 
 <div align="left">
   <p>
-    <img src="https://skillicons.dev/icons?i=emotion"/> 
+    <img src="https://skillicons.dev/icons?i=emotion"/> <br/>
     <a href="https://nandishnaik.netlify.app/">Portfolio Website</a>
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=linkedin"/> 
+    <img src="https://skillicons.dev/icons?i=linkedin"/>  <br/>
     <a href="http://www.linkedin.com/in/nandish-d-naik-39a785257">LinkedIn</a>
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=gmail"/> 
+    <img src="https://skillicons.dev/icons?i=gmail"/>  <br/>
     Email: naik.nandishd@gmail.com
   </p>
 </div>
