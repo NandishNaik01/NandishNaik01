@@ -31,6 +31,6 @@ I'm passionate about web / mobile development and creating innovative solutions.
 
 - <img src="https://skillicons.dev/icons?i=emotion"/> [Portfolio Website](https://nandishnaik.netlify.app/)
 - <img src="https://skillicons.dev/icons?i=linkedin"/>  [LinkedIn](http://www.linkedin.com/in/nandish-d-naik-39a785257)
-- <img src="https://skillicons.dev/icons?i=email"/> Email: naik.nandishd@gmail.com
+- <img src="https://skillicons.dev/icons?i=gmail"/> Email: naik.nandishd@gmail.com
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about tech!
