@@ -40,9 +40,9 @@ I'm passionate about web / mobile development and creating innovative solutions.
   </p>
   <p>
     <img src="https://skillicons.dev/icons?i=gmail"/>  <br/>
-    Email: naik.nandishd@gmail.com
+    <a href="naik.nandishd@gmail.com">Mail</a>
   </p>
 </div>
 
-
+---
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about tech!
