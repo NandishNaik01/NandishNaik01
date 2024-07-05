@@ -28,7 +28,7 @@ I'm passionate about web / mobile development and creating innovative solutions.
 
 ### 🎓 Education
 
-- BE in Computer Science (JNNCE, Pursuing, 2024)
+- BE in Computer Science (JNNCE, 2024)
 - PUC (PCMB) from DVS (Ind) PU College (2020)
 - SSLC from Govt School Gajnoor (2018)
 
