@@ -9,7 +9,7 @@ I'm passionate about web / mobile development and creating innovative solutions.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,kotlin,html,css,js,express,react,mysql,firebase,git,github,figma,django" />
+    <img src="https://skillicons.dev/icons?i=java,python,django,docker,kotlin,html,css,js,express,react,mysql,firebase,git,github,figma" />
   </a>
 </p>
 
