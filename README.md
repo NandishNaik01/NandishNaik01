@@ -31,10 +31,6 @@ Also contributing to [bearcove/arborium](https://github.com/bearcove/arborium).
 **AI & Agentic**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white)
 
-## Activity
-
-<img src="assets/metrics.svg" alt="GitHub activity and most-used languages" width="100%">
-
 <table width="100%"><tr>
 <td width="50%" valign="top">
 
